@@ -1,6 +1,6 @@
 # Socian Network REST API
 
-## Endpoints
+### Endpoints
 
 | Endpoint | Description |
 | --- | --- |
@@ -12,4 +12,6 @@
 | "api/token/" | Create a JWT by passing a valid user in the post request to this endpoint |
 | "api/token/refresh/" | Get a new JWT once the lifetime of the previously generated one expires |
 
-### Endpoints
+### Models
+User
+Post
