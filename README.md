@@ -5,14 +5,14 @@
 
 " " &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --> Home page; the list of posts
 
-"id/"                --> Detail view of the post
+"id/" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --> Detail view of the post
 
-"create/"            --> Create new post
+"create/" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --> Create new post
 
-"update/id/"         --> Update or Delete the post
+"update/id/" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --> Update or Delete the post
 
-"auth/users/"        --> Register a new user
+"auth/users/" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --> Register a new user
 
-"api/token/"         --> create a JWT by passing a valid user in the post request to this endpoint
+"api/token/" &nbsp; &nbsp; &nbsp; --> create a JWT by passing a valid user in the post request to this endpoint
 
 "api/token/refresh/" --> get a new JWT once the lifetime of the previously generated one expires
