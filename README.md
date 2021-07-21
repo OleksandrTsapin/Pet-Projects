@@ -13,5 +13,5 @@
 | "api/token/refresh/" | Get a new JWT once the lifetime of the previously generated one expires |
 
 ### Models
-User
-Post
+* User
+* Post
