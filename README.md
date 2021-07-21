@@ -15,3 +15,9 @@
 ### Models
 * User
 * Post
+
+### Features
+* User signup
+* User login
+* Post creaion / update / delete
+* JWT token authentification
