@@ -19,5 +19,5 @@
 ### Features
 * User signup
 * User login
-* Post creaion / update / delete
+* Post Create/Read/Update/Delete
 * JWT token authentification
