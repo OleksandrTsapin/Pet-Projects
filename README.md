@@ -4,6 +4,7 @@
 
 Django Rest Framework
 
+
 ### Endpoints
 
 | Endpoint | Description |
@@ -16,9 +17,11 @@ Django Rest Framework
 | "api/token/" | Create a JWT by passing a valid user in the post request to this endpoint |
 | "api/token/refresh/" | Get a new JWT once the lifetime of the previously generated one expires |
 
+
 ### Models
 * User
 * Post
+
 
 ### Features
 * User signup
