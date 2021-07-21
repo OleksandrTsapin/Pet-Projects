@@ -1,7 +1,7 @@
 # Socian Network REST API
 
 
-Endpoints
+### Endpoints
 
 " " --> Home page; the list of posts
 
