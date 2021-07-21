@@ -13,6 +13,6 @@
 
 "auth/users/" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --> Register a new user
 
-"api/token/" &nbsp;  --> create a JWT by passing a valid user in the post request to this endpoint
+"api/token/" &nbsp; &nbsp; &nbsp; --> create a JWT by passing a valid user in the post request to this endpoint
 
 "api/token/refresh/" --> get a new JWT once the lifetime of the previously generated one expires
