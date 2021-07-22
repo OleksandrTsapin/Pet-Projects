@@ -24,4 +24,4 @@ Django Rest Framework </br>
 * User signup
 * User login
 * Post Create/Read/Update/Delete
-* JWT token authentification
+* JSON Web Token (JWT) authentification
